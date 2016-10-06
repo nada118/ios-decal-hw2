@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9250372DE77D5C3E48CAA8799619298DEB16A50A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9250372DE77D5C3E48CAA8799619298DEB16A50A" : 9223372036854775807,
+    "A26EC64E4589D6C5FCAAED84BB00185D28453039" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DDD4FE15-265F-4A97-95CD-E446CDD1543A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9250372DE77D5C3E48CAA8799619298DEB16A50A" : "ios-decal-hw2\/",
+    "A26EC64E4589D6C5FCAAED84BB00185D28453039" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftCalc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftCalc\/SwiftCalc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nada118\/ios-decal-hw2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9250372DE77D5C3E48CAA8799619298DEB16A50A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nada118\/ios-decal-checkins",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A26EC64E4589D6C5FCAAED84BB00185D28453039"
+    }
+  ]
+}
